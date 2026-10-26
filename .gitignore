@@ -39,3 +39,8 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# Credenciales de Firebase: no subir
+google-services.json
+*firebase-adminsdk*.json
+*service-account*.json
